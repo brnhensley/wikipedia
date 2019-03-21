@@ -8,9 +8,14 @@
   overflow-x: hidden;
   background-color: #f7f7f7;
   border-right: 2px solid #a5e0f7;
+  padding: 4px;
 }
 
 body {
   background-color: white;
   margin-left: 164px;
+}
+.nav .nav-tabs{
+  color: darkblue;
+
 }
