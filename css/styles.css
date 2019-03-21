@@ -32,10 +32,22 @@ body {
 .container {
 
   padding: 20px;
-  /* margin-top: 20px;
-  margin-left: 20px; */
 }
 
 .border {
 
+}
+
+.panel-success img {
+  float: left;
+  max-width: 20%;
+  max-height: 20%;
+  margin: 5px;
+}
+
+.panel-info img {
+  float: right;
+  max-width: 20%;
+  max-height: 20%;
+  margin: 5px;
 }
