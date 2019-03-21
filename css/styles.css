@@ -15,7 +15,28 @@ body {
   background-color: white;
   margin-left: 164px;
 }
-.nav .nav-tabs{
+
+.nav .nav-tabs {
+  border-bottom: 30px solid #a5e0f7;
   color: darkblue;
+}
+
+.col-md-2 {
+  margin-top: 20px;
+}
+
+.panel-default {
+  background-color: #f7f7f7;
+}
+
+.container {
+
+  padding: 20px;
+  /* margin-top: 20px;
+  margin-left: 20px; */
+
+}
+
+.border {
 
 }
