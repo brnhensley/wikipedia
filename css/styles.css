@@ -7,7 +7,7 @@
   left: 0;
   overflow-x: hidden;
   background-color: #f7f7f7;
-  border-right: 2px solid #a5e0f7;
+  border-right: 1px solid #a5e0f7;
   padding: 4px;
 }
 
@@ -16,10 +16,13 @@ body {
   margin-left: 164px;
 }
 
-.nav .nav-tabs {
-  border-bottom: 30px solid #a5e0f7;
+.nav-tabs {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #a5e0f7;
   color: darkblue;
 }
+
+
 
 .col-md-2 {
   margin-top: 20px;
@@ -32,10 +35,6 @@ body {
 .container {
 
   padding: 20px;
-}
-
-.border {
-
 }
 
 .panel-success img {
